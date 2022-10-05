@@ -258,7 +258,7 @@ h3 {
 }
 
 .intro-img {
-	background-image: url(./images/bg-intro-mobile.svg);
+	background-image: url(../images/bg-intro-mobile.svg);
 	width: 100%;
 	overflow: hidden;
 	background-size: 110%;
@@ -492,7 +492,7 @@ footer > * {
 	}
 
 	.intro-img {
-		background-image: url(./images/bg-intro-desktop.svg);
+		background-image: url(../images/bg-intro-desktop.svg);
 		background-size: 150%;
 		background-repeat: no-repeat;
 		background-position: 0 -13rem;
